@@ -7,8 +7,7 @@ import TodoInput from "./components/TodoInput";
 import TodoList from "./components/TodoList";
 function App() {
   return (
-    <div >
-      <button className="btn btn-primary"></button>
+    <div >    
       <div className="container">
         <div className="row">
          <TodoInput/>
